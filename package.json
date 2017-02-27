@@ -23,6 +23,7 @@
     "inquirer": "^3.0.4",
     "lodash": "^4.17.4",
     "minimist": "^1.2.0",
+    "nightmare": "^2.10.0",
     "preferences": "^0.2.1",
     "simple-git": "^1.66.0",
     "superagent": "^3.5.0",
